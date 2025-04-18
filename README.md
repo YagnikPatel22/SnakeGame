@@ -51,12 +51,15 @@ snake_game.exe
 ### ▶️ Using Visual Studio:
 
 Open snake_game.cpp in Visual Studio.
+
 Build and run the project.
 
 ### 💻 Requirements
 
 ✅ Windows OS
+
 ✅ C++ Compiler (MinGW, MSVC, etc.)
+
 ✅ Console-based execution
 
 ### ⚙️ Technical Notes
