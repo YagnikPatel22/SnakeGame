@@ -44,7 +44,6 @@ Simple, fast, and fun—**eat food**, **grow the snake**, and **challenge yourse
 
 ### ▶️ Using `g++` (MinGW on Windows):
 
-```bash
 g++ -o snake_game snake_game.cpp -std=c++11
 snake_game.exe
 
