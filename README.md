@@ -62,7 +62,9 @@ Build and run the project.
 ### ⚙️ Technical Notes
 
 Uses windows.h for console handling (cursor position, screen clear).
+
 Uses conio.h for real-time key detection (non-blocking).
+
 Uses Sleep(100) to control game speed (~10 FPS).
 
 ### 📷 Preview
@@ -77,7 +79,9 @@ It may not work on Unix/Linux without significant modifications.
 ### 👨‍💻 Author
 
 Yagnik N. Patel
+
 📧 yagnikptl22@gmail.com
+
 🔗 LinkedIn Profile
 
 Let me know if you’d like me to also generate a downloadable file for this or help upload it to GitHub!
