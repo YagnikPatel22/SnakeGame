@@ -87,6 +87,6 @@ Yagnik N. Patel
 
 📧 yagnikptl22@gmail.com
 
-🔗 [LinkedIn Profile]
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/yagnik-n-patel)
 
 Let me know if you’d like me to also generate a downloadable file for this or help upload it to GitHub!
