@@ -45,7 +45,9 @@ Simple, fast, and fun—**eat food**, **grow the snake**, and **challenge yourse
 ### ▶️ Using `g++` (MinGW on Windows):
 
 g++ -o snake_game
+
 snake_game.cpp -std=c++11
+
 snake_game.exe
 
 ### ▶️ Using Visual Studio:
@@ -64,11 +66,11 @@ Build and run the project.
 
 ### ⚙️ Technical Notes
 
-Uses windows.h for console handling (cursor position, screen clear).
+- Uses windows.h for console handling (cursor position, screen clear).
 
-Uses conio.h for real-time key detection (non-blocking).
+- Uses conio.h for real-time key detection (non-blocking).
 
-Uses Sleep(100) to control game speed (~10 FPS).
+- Uses Sleep(100) to control game speed (~10 FPS).
 
 ### 📷 Preview
 
